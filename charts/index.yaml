@@ -8,5 +8,5 @@ entries:
       digest: 2ad58e154f5d6d7f0792a6263ce287d28a7fe528aeecff8c8a5f82fef92eb234
       name: nim-llm
       urls:
-        - https://helm.ngc.nvidia.com/nim/charts/nim-llm-1.7.0.tgz
+        - https://raw.githubusercontent.com/polyseam/uncharted/main/charts/nim-llm-1.7.0.tgz
       version: "1.7.0"

@@ -1,3 +1,1 @@
-## soon
-
-`uncharted push ./charts/src/my-chart.tgz`
+Mirroring charts which lack proper helm registries.
