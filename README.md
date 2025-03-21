@@ -1,3 +1,3 @@
-# instructions
+## soon
 
-`digest` fields generated with `sha256sum charts/my-chart.tgz`
+`uncharted push ./charts/src/my-chart.tgz`
